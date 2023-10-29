@@ -1,2 +1,2 @@
 # VibeERP
-A ERP system built with Streamlit.
+A cloud ERP system built with Streamlit.
